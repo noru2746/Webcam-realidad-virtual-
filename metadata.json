@@ -1,0 +1,9 @@
+{
+  "name": "Aetheria - 3D Particle Vision Synthesizer",
+  "description": "Interactive real-time 3D particle system powered by Three.js and custom GLSL shaders, controlled via computer vision webcam hand gestures.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
